@@ -1,40 +1,75 @@
 ---
 layout: page
-title: About
+title: "About"
+description: "学苟知本，六经皆我注脚 "
+header-img: "img/green.jpg"
 ---
 
-Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html).
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed in an afternoon.
+<center>
+    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+</center>
 
----
+我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
 
-## Progress
+现在研习 **认知写作学** 。
 
-Progress was built and inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html). The folks over at Cody House are pretty fantastic and are making some awesome things. They're also super responsive to comments, so head on over there and check out what they've been doing. 
+###坚信
 
-Progress features quick and simple environment is set up so users can input all the necesarry info in the config file and start blogging. Further reiterations are in progress to turn this into a Wordpress theme or make it fully editable with Cloudcannon CMS. I cannot let you resell this unless you [contact me](mailto:alex@collectivelymade.com)
 
-If you'd like give credit somewhere on your blog or tweet a shout out to
-[@alexanderussell](https://twitter.com/alexanderussell), that would be pretty sweet. 
+- 元认知乃一切之源
+- 学苟知本，六经皆我注脚 
+- 一切技能皆可习得，包括写作
+- 「持续」并不是坚持，写就是最好的回报
 
-If you feel like donating — [Give it a thought.](https://flattr.com/profile/alexanderussell)
 
----
+###关注：
 
-## Basic Setup
 
-1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
-2. Download this bad boy. 
-3. Fork the [Progress repo](http://github.com/alexanderussell/progress-for-jekyll/)
-4. Twerk it out so it's just for you.
-5.  ???
-6.  Profit
+- [元认知](http://www.mesule.com/)
+- 写作
+- Python
+- [阳志平](http://www.yangzhiping.com/)
+- [ZoomQuiet](http://blog.zoomquiet.io/)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/alexanderussell/progress-for-jekyll/issues/new) or [ask me on Twitter](https://twitter.com/alexanderussell).
 
-Thanks!
+
+
+###代表作：
+
+- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+
+- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
+
+- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
+
+
+###我的朋友们
+
+- [YiLee](http://yilee.me)
+- [Caos](http://caos.me)
+- [BuzhiNote](http://BuzhiNote.com)
+- [Azeril](http://azeril.me)
+
+###联系
+
+- [博客：www.cnfeat.com](www.cnfeat.com)
+
+- [微博@CnFeat](http://weibo.com/207775270)
+
+- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+
+- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
+
+- 公众号：cnfeat
+
+
+<center>
+    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+</center>
+
+
+
+
+
+
