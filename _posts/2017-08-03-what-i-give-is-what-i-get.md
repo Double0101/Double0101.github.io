@@ -19,7 +19,7 @@ description: 一条龙服务，从头到尾搭建ss教程
 
 自己搭建shadowsocks有很多好处，比如自己一个人用一条线比较快，相比于VPN，ss不容易被封接下来进入正题，我们开始搭建shadowsocks。
 
-首先你得有一台VPS，其实国外的VPS的提供商很多，我选择的是[digtialocean](https://m.do.co/c/35263bfe06ce)(可以通过该链接注册)这是官方提供的链接，绝对没啥问题，现在注册还可以获赠10美金，就相当于给你免费试用两个月，还是很划算的，不过需要用paypal或者国际信用卡支付，如果你没有paypal和信用卡，像我一样，穷学生哪来这些。。。可以用这个[全球付](http://www.globalcash.hk/sign-reb.do)，当然你也可以直接买一个账号，去淘宝，我选择的是纽约的线路，感觉用着还可以，日常用用没啥问题，我选择的是512MB／20GB／CentOS这个配置，5美金一个月。其他还有很多供应商，比如vultr和BandwagonHost，都是可以的。
+首先你得有一台VPS，其实国外的VPS的提供商很多，我选择的是[digtialocean](http://www.digitalocean.com/?refcode=35263bfe06ce)(可以通过该链接注册)这是官方提供的链接，绝对没啥问题，现在注册还可以获赠10美金，就相当于给你免费试用两个月，还是很划算的，不过需要用paypal或者国际信用卡支付，如果你没有paypal和信用卡，像我一样，穷学生哪来这些。。。可以用这个[全球付](http://www.globalcash.hk/sign-reb.do)，当然你也可以直接买一个账号，去淘宝，我选择的是纽约的线路，感觉用着还可以，日常用用没啥问题，我选择的是512MB／20GB／CentOS这个配置，5美金一个月。其他还有很多供应商，比如vultr和BandwagonHost，都是可以的。
 
 创建好实例之后我们进入我们的VPS，如果经常要进其实可以用SSH，然后我们进入服务器，这里我用到了别人写的[一键安装包](https://shadowsocks.be/11.html)
 
